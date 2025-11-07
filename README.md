@@ -12,7 +12,3 @@ Each folder contains:
 - **SQL scripts** used for hands-on exercises  
 - **Summaries** of what I learned that day
 
----
-
-## 📁 Folder Structure
-
